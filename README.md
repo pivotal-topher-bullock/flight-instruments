@@ -1,2 +1,2 @@
 # flight-instruments
-Visualizations for a Concourse CI deployment's altitude, airspeed and direction.
+CLI Visualizations of Concourse deployment's internals
